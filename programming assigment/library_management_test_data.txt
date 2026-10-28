@@ -1,8 +1,0 @@
-book|101|The Hobbit|J.R.R. Tolkien|1937|1|310|Fantasy
-book|102|1984|George Orwell|1949|1|328|Dystopian
-book|103|Pride and Prejudice|Jane Austen|1813|1|432|Romance
-book|104|Clean Code|Robert C. Martin|2008|1|464|Programming
-book|105|The C++ Programming Language|Bjarne Stroustrup|2013|1|1376|Programming
-magazine|201|National Geographic|National Geographic Society|2024|1|12|January
-dvd|301|The Matrix|Lana Wachowski|1999|1|136|R
-research|401|Deep Learning|Ian Goodfellow|2016|1|Nature|10.1038/example
